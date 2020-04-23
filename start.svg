@@ -1,0 +1,22 @@
+<svg id="background" xmlns="http://www.w3.org/2000/svg" width="135" height="135" viewBox="0 0 135 135">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #70be44;
+      }
+    </style>
+  </defs>
+  <g>
+    <ellipse class="cls-1" cx="64" cy="70.5" rx="62.5" ry="64.5"/>
+    <polygon class="cls-2" points="111.72 68.49 38.57 31.69 41.71 111.32 111.72 68.49"/>
+  </g>
+</svg>
